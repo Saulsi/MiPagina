@@ -1,2 +1,2 @@
 # MiPagina
-Proyecto de web para pruenas
+Proyecto de web para pruebas
